@@ -13,4 +13,8 @@ Hi! I´m Manuel Molina, Full-Stack Developer from Spain, I´m a passionate with 
 
 📩 Contact
 
-<a href="www.linkedin.com/in/manuelmolinaabad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+<hr>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelMolinaAbad&theme=dark"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuelMolinaAbad&theme=github_dark">
