@@ -2,9 +2,6 @@
 
 ![Banner](https://github.com/ManuelMolinaAbad/ManuelMolinaAbad/assets/127496509/cf707c8a-5a7d-4f19-ac52-fa205e005979)
 
-<p align="center">
-  <img src="https://github.com/ManuelMolinaAbad/ManuelMolinaAbad/assets/127496509/cf707c8a-5a7d-4f19-ac52-fa205e005979" alt="my banner"></a>
-</p>
 <!--
 **ManuelMolinaAbad/ManuelMolinaAbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
