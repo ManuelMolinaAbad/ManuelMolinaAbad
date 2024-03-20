@@ -1,4 +1,4 @@
-
+![LinkedIN](https://github.com/ManuelMolinaAbad/ManuelMolinaAbad/assets/127496509/a35104cb-471e-461c-b437-85f59ca06ad0)![Gmail](https://github.com/ManuelMolinaAbad/ManuelMolinaAbad/assets/127496509/47cd4d5a-3ecb-4bdf-803e-39720ccc06da)
 ![github banner](https://github.com/ManuelMolinaAbad/ManuelMolinaAbad/assets/127496509/97099a14-d415-4b4b-94fc-c0b1e229aff1)
 
 
@@ -14,7 +14,10 @@ Hi! I´m Manuel Molina, Full-Stack Developer from Spain, I´m a passionate with 
 
 📩 Contact
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://www.google.es"><img src="https://github.com/ManuelMolinaAbad/ManuelMolinaAbad/assets/127496509/45c99eca-8244-497a-b7ce-ef41e8d46008"></a>
+<a href="https://www.linkedin.com/in/manuelmolinaabad"><img src="https://github.com/ManuelMolinaAbad/ManuelMolinaAbad/assets/127496509/69c7cf6a-789c-4436-862e-8ca5d98cc951"></a>
+
+
 
 <hr>
 
