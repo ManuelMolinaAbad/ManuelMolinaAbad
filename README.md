@@ -13,10 +13,10 @@ Hi! I´m Manuel Molina, Full-Stack Developer from Spain, I´m a passionate with 
 
 📩 Contact
 
-<a href="https://www.google.es"><img src="https://github.com/ManuelMolinaAbad/ManuelMolinaAbad/assets/127496509/45c99eca-8244-497a-b7ce-ef41e8d46008"></a>
+If you want to get in touch with me, click one option below and I will be glad to answer you!
+
+<a href="mailto:manuelmolinaabad@gmail.com"><img src="https://github.com/ManuelMolinaAbad/ManuelMolinaAbad/assets/127496509/45c99eca-8244-497a-b7ce-ef41e8d46008"></a>
 <a href="https://www.linkedin.com/in/manuelmolinaabad"><img src="https://github.com/ManuelMolinaAbad/ManuelMolinaAbad/assets/127496509/69c7cf6a-789c-4436-862e-8ca5d98cc951"></a>
-
-
 
 <hr>
 
