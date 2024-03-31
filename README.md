@@ -22,15 +22,15 @@ I´m a passionate with technology both hardware and software. I love solving pro
 
 ## ❕ Other Interest Links
 
-<a href="https://www.freecodecamp.org/Manuel_Molina" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
+<a href="https://www.freecodecamp.org/Manuel_Molina"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
 
 ## 📩 Contact
 
 If you want to get in touch with me, click one option below and I will be glad to answer you!
 
 <p>
-  <a href="mailto:manuelmolinaabad@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/manuelmolinaabad" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:manuelmolinaabad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/manuelmolinaabad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## Github Stats & Lenguages
