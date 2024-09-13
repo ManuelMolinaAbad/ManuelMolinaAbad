@@ -2,7 +2,7 @@
 
 ![github banner](https://github.com/ManuelMolinaAbad/ManuelMolinaAbad/assets/127496509/97099a14-d415-4b4b-94fc-c0b1e229aff1)
 
-# 👨‍💻 About Me:
+## 👨‍💻 About Me
 
 I´m a passionate with technology both hardware and software. I love solving problems and getting to know new subjects in relation with technology. My enthusiastic about technology brought me a new wide world of knowledge in web development that nowadays in enjoying a lot.
 
