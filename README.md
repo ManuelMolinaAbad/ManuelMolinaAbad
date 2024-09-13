@@ -6,6 +6,15 @@
 
 I´m a passionate with technology both hardware and software. I love solving problems and getting to know new subjects in relation with technology. My enthusiastic about technology brought me a new wide world of knowledge in web development that nowadays in enjoying a lot.
 
+## 📩 Contact
+
+If you want to get in touch with me, click one option below and I will be glad to answer you!
+
+<p>
+ <a href="mailto:manuelmolinaabad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/manuelmolinaabad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
 ## 🛠 Technical Skills  
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
@@ -23,15 +32,6 @@ I´m a passionate with technology both hardware and software. I love solving pro
 ## ❕ Other Interest Links
 
 <a href="https://www.freecodecamp.org/Manuel_Molina"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
-
-## 📩 Contact
-
-If you want to get in touch with me, click one option below and I will be glad to answer you!
-
-<p>
-  <a href="mailto:manuelmolinaabad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/manuelmolinaabad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
 
 ## Github Stats & Lenguages
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuelMolinaAbad&theme=dark">
